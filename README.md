@@ -10,4 +10,4 @@ I have experience in Arduino, low-code platforms, and technology communities.
 - ChatGPT Prompt Engineering
 
 ## Contact
-You can reach me at [LinkedIn](https://www.linkedin.com/in/ubaidullahgaffoor/) or [GitHub](https://github.com/username).
+You can reach me at [LinkedIn](https://www.linkedin.com/in/ubaidullahgaffoor/) or [GitHub](https://github.com/Ubaidullah1111).
